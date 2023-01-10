@@ -1,0 +1,116 @@
+body
+{
+	background-color:#0B4F6C;
+	color:#D1BCE3;
+}
+a
+{
+	color:white;
+}
+.menu1
+{
+text-align:center;
+
+
+	
+}
+.menu1 a
+{
+	color:#D1BCE3;
+	text-decoration:none;
+}
+.menu1 a:hover
+{
+	font-weight:bold;
+
+}
+.menu-pion
+{
+	padding:5px;
+	background-color:#383F51;
+	border-style: solid;
+	border-width: thin;
+    border-color: coral;
+	border-collapse: collapse;
+	border-radius:5px;
+
+}
+.menu-pion a:hover 
+{
+	color:#D1BCE3;
+	text-decoration:none;
+}
+
+p
+{
+font-weight:bold; 
+letter-spacing: 3px;
+text-align:center;
+word-spacing:15px;	
+}
+.przyjete
+{
+	color:red;
+	letter-spacing: 1px;
+}
+.zrealizowane
+{
+	color:green;
+	letter-spacing: 1px;
+}
+.anulowane
+{
+	color:orange;
+	letter-spacing: 1px;
+}
+.odpowiedz
+{
+	padding-bottom:45px;
+	
+}
+.wrealizacji
+{
+	color:#66ccff;
+	letter-spacing: 1px;
+	word-spacing:5px;	
+}
+hr 
+{
+    background-color: #EBEBEB;
+    height: 1px;
+    color: #EBEBEB;
+    border: 0px;
+}
+.ogloszenie
+{
+	 text-align: justify;
+	 font-weight: normal;
+	 border-color: red;
+	 border-left: 6px solid red;
+	 padding:2px;
+}
+.tabela
+{
+	font-size:13px;
+}
+.tabela td
+{
+	padding:5px 10px 5px 10px;
+	margin:5px;
+}
+.tabela th
+{
+	text-align:center;
+	padding:5px 10px 5px 10px;
+	margin:5px;
+}
+.tabela tr
+{
+	border-bottom: 2px solid grey;
+}
+.tabela tr:hover
+{
+	background-color:black;
+	opacity:0.8;
+}
+
